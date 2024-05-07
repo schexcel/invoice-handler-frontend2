@@ -21,7 +21,9 @@
     2024
 <br><br>
 
-    Az aklalmazás használatához kérlek <a href="login">jelentkezz be</a>, vagy ha még nincs accountod, <a href="register">regisztrálj!!</a>
+    Az aklalmazás használatához kérlek használd a felső menüsort!
+    <br><br>
+    Az adatok az <a href="http://127.0.0.1:8000/invoiceheads">admin</a> oldalon szerkeszthetők!
 
     <br><br>
     Ha szeretnéd felvenni velünk a kapcsolatot, válaszd a <a href="contact">kapcsolati form-ot!</a>
