@@ -9,15 +9,15 @@
     <h3> Számlázási Adatkezelő: Intelligens szoftver a hatékony számlázáshoz és kimutatásokhoz.</h3>
  <br>
     <h4>Készítették:</h4>
-      <h5><ul>
-        <li>Bakó Péter</li>
-        <li>Schwarczenberger Ferenc</li>
-      </ul></h5>
+      <ul>
+        <li><h5>Bakó Péter</h5></li>
+        <li><h5>Schwarczenberger Ferenc</h5></li>
+      </ul>
 <br>
     <h4>Konzulens:</h4>
-    <h5><ul>
-      <li>Harangozó Zsolt</li>
-    </ul></h5>
+    <ul>
+      <li><h5>Harangozó Zsolt</h5></li>
+    </ul>
     2024
 <br><br>
 
